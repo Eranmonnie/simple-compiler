@@ -1,0 +1,16 @@
+{
+  "name": "simple-compiler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "simple compiler made with typescript ",
+  "main": "compiler.js",
+  "scripts": {
+    "compile": "tsc",
+    "start": "npm run compile && node ./dist/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
