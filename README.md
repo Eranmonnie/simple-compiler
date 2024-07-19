@@ -53,7 +53,7 @@ simple-compiler/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/simple-compiler.git
+   git clone https://github.com/Eranmonnie/simple-compiler.git
    
    cd simple-compiler
    ```
