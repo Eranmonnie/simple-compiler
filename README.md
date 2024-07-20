@@ -15,28 +15,29 @@ A simple compiler built with TypeScript that processes a source code string thro
 ```
 simple-compiler/
 ├── src/
-│ ├── tokenizer.ts
-│ ├── parser.ts
-│ ├── transformer.ts
-| ├── traverser.ts
-│ ├── codeGenerator.ts
-| ├── test.ts
-| ├── types.ts
-│ └── compiler.ts
+│   ├── tokenizer.ts
+│   ├── parser.ts
+│   ├── transformer.ts
+│   ├── traverser.ts
+│   ├── codeGenerator.ts
+│   ├── test.ts
+│   ├── types.ts
+│   └── compiler.ts
 ├── dist/
-│ ├── tokenizer.js
-│ ├── parser.js
-│ ├── transformer.js
-| ├── traverser.js
-│ ├── codeGenerator.js
-| ├── test.js
-| ├── types.js
-│ └── compiler.js
+│   ├── tokenizer.js
+│   ├── parser.js
+│   ├── transformer.js
+│   ├── traverser.js
+│   ├── codeGenerator.js
+│   ├── test.js
+│   ├── types.js
+│   └── compiler.js
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
 ├── tsconfig.json
 └── node_modules/
+
 ```
 
 
